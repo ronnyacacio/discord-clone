@@ -14,16 +14,15 @@ export const Button = styled.button<Props>`
 
   margin-bottom: 8px;
 
-  background-color: ${({ isHome }) =>
-    isHome ? 'var(--rocketseat)' : 'var(--primary)'};
+  background-color: var(--primary);
 
   position: relative;
 
   cursor: pointer;
 
   > img {
-    width: 24px;
-    height: 24px;
+    width: 48px;
+    height: 48px;
   }
 
   transition: border-radius 0.2s, background-color 0.2s;
@@ -72,7 +71,6 @@ export const Button = styled.button<Props>`
   &.active,
   &:hover {
     border-radius: 16px;
-    background-color: ${({ isHome }) =>
-      isHome ? 'var(--rocketseat)' : 'var(--discord)'};
+    background-color: var(--discord);
   }
 `;
