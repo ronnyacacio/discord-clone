@@ -8,22 +8,22 @@
   </a>
 
   <a href="#">
-    <img alt="Languages" src="https://img.shields.io/github/languages/count/ronnyacacio/meme-maker?color=6e86d6&style=flat-square">
+    <img alt="Languages" src="https://img.shields.io/github/languages/count/ronnyacacio/discord-clone?color=6e86d6&style=flat-square">
   </a>
 
   <a href="https://github.com/ronnyacacio/meme-maker/stargazers">
-    <img alt="Stars" src="https://img.shields.io/github/stars/ronnyacacio/meme-maker?color=6e86d6&style=flat-square">
+    <img alt="Stars" src="https://img.shields.io/github/stars/ronnyacacio/discord-clone?color=6e86d6&style=flat-square">
   </a>
 
-  <a href="https://github.com/ronnyacacio/meme-maker/commits/master">
-    <img alt="LastCommit" src="https://img.shields.io/github/last-commit/ronnyacacio/meme-maker?color=6e86d6&style=flat-square">
+  <a href="https://github.com/ronnyacacio/discord-clone/commits/master">
+    <img alt="LastCommit" src="https://img.shields.io/github/last-commit/ronnyacacio/discord-clone?color=6e86d6&style=flat-square">
   </a>
 
   <a href="#">
-    <img alt="RepoSize" src="https://img.shields.io/github/repo-size/ronnyacacio/meme-maker?color=6e86d6&style=flat-square">
+    <img alt="RepoSize" src="https://img.shields.io/github/repo-size/ronnyacacio/discord-clone?color=6e86d6&style=flat-square">
   </a>
 
-  <a href="https://github.com/ronnyacacio/meme-maker/blob/master/LICENSE.md">
+  <a href="https://github.com/ronnyacacio/discord-clone/blob/master/LICENSE.md">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=6e86d6&style=flat-square">
   </a>
 </p>
