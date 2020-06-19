@@ -11,7 +11,7 @@
     <img alt="Languages" src="https://img.shields.io/github/languages/count/ronnyacacio/discord-clone?color=6e86d6&style=flat-square">
   </a>
 
-  <a href="https://github.com/ronnyacacio/meme-maker/stargazers">
+  <a href="https://github.com/ronnyacacio/discord-clone/stargazers">
     <img alt="Stars" src="https://img.shields.io/github/stars/ronnyacacio/discord-clone?color=6e86d6&style=flat-square">
   </a>
 
